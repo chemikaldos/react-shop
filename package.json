@@ -1,6 +1,6 @@
 {
   "name": "new_shop",
-  "home": "https://chemikaldos.io/react-shop",
+  "homepage": "https://chemikaldos.github.io/react-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
