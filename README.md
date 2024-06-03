@@ -1,5 +1,5 @@
 # React Shop Portfolio Project
 
-[Demo](https://chemikaldos.io/react-shop).
+[Demo](https://chemikaldos.github.io/react-shop).
 
 
