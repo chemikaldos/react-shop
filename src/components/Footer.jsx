@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="footer-copyright">
           <div className="container">
           © {new Date().getFullYear()} Смотрим и читаем внимательно
-          <a className="grey-text text-lighten-4 right" href="#!">React Shop</a>
+          <a className="grey-text text-lighten-4 right" href="https://github.com/chemikaldos/react-shop" rel="noreferrer" target='_blank'>React Shop</a>
           </div>
         </div>
       </footer>
